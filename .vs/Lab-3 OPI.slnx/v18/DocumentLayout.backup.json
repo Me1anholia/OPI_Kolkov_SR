@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\nikon\\Desktop\\Dz_NK\\\u041E\u041F\u0406\\Lab-3 OPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3E6D1EB3-A5B0-4ECA-9034-9479304B8680}|Lab-3 OPI.csproj|c:\\users\\nikon\\desktop\\dz_nk\\\u043E\u043F\u0456\\lab-3 opi\\tasktests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E6D1EB3-A5B0-4ECA-9034-9479304B8680}|Lab-3 OPI.csproj|solutionrelative:tasktests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E6D1EB3-A5B0-4ECA-9034-9479304B8680}|Lab-3 OPI.csproj|c:\\users\\nikon\\desktop\\dz_nk\\\u043E\u043F\u0456\\lab-3 opi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E6D1EB3-A5B0-4ECA-9034-9479304B8680}|Lab-3 OPI.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E6D1EB3-A5B0-4ECA-9034-9479304B8680}|Lab-3 OPI.csproj|c:\\users\\nikon\\desktop\\dz_nk\\\u043E\u043F\u0456\\lab-3 opi\\task.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E6D1EB3-A5B0-4ECA-9034-9479304B8680}|Lab-3 OPI.csproj|solutionrelative:task.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Task.cs",
+              "DocumentMoniker": "C:\\Users\\nikon\\Desktop\\Dz_NK\\\u041E\u041F\u0406\\Lab-3 OPI\\Task.cs",
+              "RelativeDocumentMoniker": "Task.cs",
+              "ToolTip": "C:\\Users\\nikon\\Desktop\\Dz_NK\\\u041E\u041F\u0406\\Lab-3 OPI\\Task.cs",
+              "RelativeToolTip": "Task.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAALMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-19T12:11:23.549Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TaskTests.cs",
+              "DocumentMoniker": "C:\\Users\\nikon\\Desktop\\Dz_NK\\\u041E\u041F\u0406\\Lab-3 OPI\\TaskTests.cs",
+              "RelativeDocumentMoniker": "TaskTests.cs",
+              "ToolTip": "C:\\Users\\nikon\\Desktop\\Dz_NK\\\u041E\u041F\u0406\\Lab-3 OPI\\TaskTests.cs",
+              "RelativeToolTip": "TaskTests.cs",
+              "ViewState": "AgIAAJMAAAAAAAAAAAAqwMsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-19T11:39:44.407Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\nikon\\Desktop\\Dz_NK\\\u041E\u041F\u0406\\Lab-3 OPI\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\nikon\\Desktop\\Dz_NK\\\u041E\u041F\u0406\\Lab-3 OPI\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-19T11:35:32.102Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

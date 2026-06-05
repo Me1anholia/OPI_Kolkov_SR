@@ -1,0 +1,214 @@
+C:\Users\nikon\Desktop\Dz_NK\ОПІ\Lab-3 OPI\bin\Debug\net10.0\testhost.dll
+C:\Users\nikon\Desktop\Dz_NK\ОПІ\Lab-3 OPI\bin\Debug\net10.0\testhost.exe
+C:\Users\nikon\Desktop\Dz_NK\ОПІ\Lab-3 OPI\bin\Debug\net10.0\NUnit3.TestAdapter.dll
+C:\Users\nikon\Desktop\Dz_NK\ОПІ\Lab-3 OPI\bin\Debug\net10.0\NUnit3.TestAdapter.pdb
+C:\Users\nikon\Desktop\Dz_NK\ОПІ\Lab-3 OPI\bin\Debug\net10.0\nunit.engine.dll
+C:\Users\nikon\Desktop\Dz_NK\ОПІ\Lab-3 OPI\bin\Debug\net10.0\nunit.engine.api.dll
+C:\Users\nikon\Desktop\Dz_NK\ОПІ\Lab-3 OPI\bin\Debug\net10.0\nunit.engine.core.dll
+C:\Users\nikon\Desktop\Dz_NK\ОПІ\Lab-3 OPI\bin\Debug\net10.0\testcentric.engine.metadata.dll
+C:\Users\nikon\Desktop\Dz_NK\ОПІ\Lab-3 OPI\bin\Debug\net10.0\Lab-3 OPI.exe
+C:\Users\nikon\Desktop\Dz_NK\ОПІ\Lab-3 OPI\bin\Debug\net10.0\Lab-3 OPI.deps.json
+C:\Users\nikon\Desktop\Dz_NK\ОПІ\Lab-3 OPI\bin\Debug\net10.0\Lab-3 OPI.runtimeconfig.json
+C:\Users\nikon\Desktop\Dz_NK\ОПІ\Lab-3 OPI\bin\Debug\net10.0\Lab-3 OPI.dll
+C:\Users\nikon\Desktop\Dz_NK\ОПІ\Lab-3 OPI\bin\Debug\net10.0\Lab-3 OPI.pdb
+C:\Users\nikon\Desktop\Dz_NK\ОПІ\Lab-3 OPI\bin\Debug\net10.0\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+C:\Users\nikon\Desktop\Dz_NK\ОПІ\Lab-3 OPI\bin\Debug\net10.0\Microsoft.TestPlatform.CoreUtilities.dll
+C:\Users\nikon\Desktop\Dz_NK\ОПІ\Lab-3 OPI\bin\Debug\net10.0\Microsoft.TestPlatform.PlatformAbstractions.dll
+C:\Users\nikon\Desktop\Dz_NK\ОПІ\Lab-3 OPI\bin\Debug\net10.0\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+C:\Users\nikon\Desktop\Dz_NK\ОПІ\Lab-3 OPI\bin\Debug\net10.0\Microsoft.TestPlatform.CommunicationUtilities.dll
+C:\Users\nikon\Desktop\Dz_NK\ОПІ\Lab-3 OPI\bin\Debug\net10.0\Microsoft.TestPlatform.CrossPlatEngine.dll
+C:\Users\nikon\Desktop\Dz_NK\ОПІ\Lab-3 OPI\bin\Debug\net10.0\Microsoft.TestPlatform.Utilities.dll
+C:\Users\nikon\Desktop\Dz_NK\ОПІ\Lab-3 OPI\bin\Debug\net10.0\Microsoft.VisualStudio.TestPlatform.Common.dll
+C:\Users\nikon\Desktop\Dz_NK\ОПІ\Lab-3 OPI\bin\Debug\net10.0\Newtonsoft.Json.dll
+C:\Users\nikon\Desktop\Dz_NK\ОПІ\Lab-3 OPI\bin\Debug\net10.0\nunit.framework.dll
+C:\Users\nikon\Desktop\Dz_NK\ОПІ\Lab-3 OPI\bin\Debug\net10.0\nunit.framework.legacy.dll
+C:\Users\nikon\Desktop\Dz_NK\ОПІ\Lab-3 OPI\bin\Debug\net10.0\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\nikon\Desktop\Dz_NK\ОПІ\Lab-3 OPI\bin\Debug\net10.0\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\nikon\Desktop\Dz_NK\ОПІ\Lab-3 OPI\bin\Debug\net10.0\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\nikon\Desktop\Dz_NK\ОПІ\Lab-3 OPI\bin\Debug\net10.0\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\nikon\Desktop\Dz_NK\ОПІ\Lab-3 OPI\bin\Debug\net10.0\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\nikon\Desktop\Dz_NK\ОПІ\Lab-3 OPI\bin\Debug\net10.0\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\nikon\Desktop\Dz_NK\ОПІ\Lab-3 OPI\bin\Debug\net10.0\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\nikon\Desktop\Dz_NK\ОПІ\Lab-3 OPI\bin\Debug\net10.0\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\nikon\Desktop\Dz_NK\ОПІ\Lab-3 OPI\bin\Debug\net10.0\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\nikon\Desktop\Dz_NK\ОПІ\Lab-3 OPI\bin\Debug\net10.0\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\nikon\Desktop\Dz_NK\ОПІ\Lab-3 OPI\bin\Debug\net10.0\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\nikon\Desktop\Dz_NK\ОПІ\Lab-3 OPI\bin\Debug\net10.0\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\nikon\Desktop\Dz_NK\ОПІ\Lab-3 OPI\bin\Debug\net10.0\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\nikon\Desktop\Dz_NK\ОПІ\Lab-3 OPI\bin\Debug\net10.0\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\nikon\Desktop\Dz_NK\ОПІ\Lab-3 OPI\bin\Debug\net10.0\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\nikon\Desktop\Dz_NK\ОПІ\Lab-3 OPI\bin\Debug\net10.0\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\nikon\Desktop\Dz_NK\ОПІ\Lab-3 OPI\bin\Debug\net10.0\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\nikon\Desktop\Dz_NK\ОПІ\Lab-3 OPI\bin\Debug\net10.0\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\nikon\Desktop\Dz_NK\ОПІ\Lab-3 OPI\bin\Debug\net10.0\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\nikon\Desktop\Dz_NK\ОПІ\Lab-3 OPI\bin\Debug\net10.0\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\nikon\Desktop\Dz_NK\ОПІ\Lab-3 OPI\bin\Debug\net10.0\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\nikon\Desktop\Dz_NK\ОПІ\Lab-3 OPI\bin\Debug\net10.0\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\nikon\Desktop\Dz_NK\ОПІ\Lab-3 OPI\bin\Debug\net10.0\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\nikon\Desktop\Dz_NK\ОПІ\Lab-3 OPI\bin\Debug\net10.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\nikon\Desktop\Dz_NK\ОПІ\Lab-3 OPI\bin\Debug\net10.0\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\nikon\Desktop\Dz_NK\ОПІ\Lab-3 OPI\bin\Debug\net10.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\nikon\Desktop\Dz_NK\ОПІ\Lab-3 OPI\bin\Debug\net10.0\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\nikon\Desktop\Dz_NK\ОПІ\Lab-3 OPI\bin\Debug\net10.0\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\nikon\Desktop\Dz_NK\ОПІ\Lab-3 OPI\bin\Debug\net10.0\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\nikon\Desktop\Dz_NK\ОПІ\Lab-3 OPI\bin\Debug\net10.0\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\nikon\Desktop\Dz_NK\ОПІ\Lab-3 OPI\bin\Debug\net10.0\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\nikon\Desktop\Dz_NK\ОПІ\Lab-3 OPI\bin\Debug\net10.0\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\nikon\Desktop\Dz_NK\ОПІ\Lab-3 OPI\bin\Debug\net10.0\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\nikon\Desktop\Dz_NK\ОПІ\Lab-3 OPI\bin\Debug\net10.0\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\nikon\Desktop\Dz_NK\ОПІ\Lab-3 OPI\bin\Debug\net10.0\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\nikon\Desktop\Dz_NK\ОПІ\Lab-3 OPI\bin\Debug\net10.0\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\nikon\Desktop\Dz_NK\ОПІ\Lab-3 OPI\bin\Debug\net10.0\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\nikon\Desktop\Dz_NK\ОПІ\Lab-3 OPI\bin\Debug\net10.0\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\nikon\Desktop\Dz_NK\ОПІ\Lab-3 OPI\bin\Debug\net10.0\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\nikon\Desktop\Dz_NK\ОПІ\Lab-3 OPI\bin\Debug\net10.0\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\nikon\Desktop\Dz_NK\ОПІ\Lab-3 OPI\bin\Debug\net10.0\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\nikon\Desktop\Dz_NK\ОПІ\Lab-3 OPI\bin\Debug\net10.0\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\nikon\Desktop\Dz_NK\ОПІ\Lab-3 OPI\bin\Debug\net10.0\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\nikon\Desktop\Dz_NK\ОПІ\Lab-3 OPI\bin\Debug\net10.0\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\nikon\Desktop\Dz_NK\ОПІ\Lab-3 OPI\bin\Debug\net10.0\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\nikon\Desktop\Dz_NK\ОПІ\Lab-3 OPI\bin\Debug\net10.0\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\nikon\Desktop\Dz_NK\ОПІ\Lab-3 OPI\bin\Debug\net10.0\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\nikon\Desktop\Dz_NK\ОПІ\Lab-3 OPI\bin\Debug\net10.0\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\nikon\Desktop\Dz_NK\ОПІ\Lab-3 OPI\bin\Debug\net10.0\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\nikon\Desktop\Dz_NK\ОПІ\Lab-3 OPI\bin\Debug\net10.0\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\nikon\Desktop\Dz_NK\ОПІ\Lab-3 OPI\bin\Debug\net10.0\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\nikon\Desktop\Dz_NK\ОПІ\Lab-3 OPI\bin\Debug\net10.0\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\nikon\Desktop\Dz_NK\ОПІ\Lab-3 OPI\bin\Debug\net10.0\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\nikon\Desktop\Dz_NK\ОПІ\Lab-3 OPI\bin\Debug\net10.0\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\nikon\Desktop\Dz_NK\ОПІ\Lab-3 OPI\bin\Debug\net10.0\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\nikon\Desktop\Dz_NK\ОПІ\Lab-3 OPI\bin\Debug\net10.0\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\nikon\Desktop\Dz_NK\ОПІ\Lab-3 OPI\bin\Debug\net10.0\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\nikon\Desktop\Dz_NK\ОПІ\Lab-3 OPI\bin\Debug\net10.0\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\nikon\Desktop\Dz_NK\ОПІ\Lab-3 OPI\bin\Debug\net10.0\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\nikon\Desktop\Dz_NK\ОПІ\Lab-3 OPI\bin\Debug\net10.0\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\nikon\Desktop\Dz_NK\ОПІ\Lab-3 OPI\bin\Debug\net10.0\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\nikon\Desktop\Dz_NK\ОПІ\Lab-3 OPI\bin\Debug\net10.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\nikon\Desktop\Dz_NK\ОПІ\Lab-3 OPI\bin\Debug\net10.0\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\nikon\Desktop\Dz_NK\ОПІ\Lab-3 OPI\bin\Debug\net10.0\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\nikon\Desktop\Dz_NK\ОПІ\Lab-3 OPI\bin\Debug\net10.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\nikon\Desktop\Dz_NK\ОПІ\Lab-3 OPI\obj\Debug\net10.0\Lab-3 OPI.csproj.AssemblyReference.cache
+C:\Users\nikon\Desktop\Dz_NK\ОПІ\Lab-3 OPI\obj\Debug\net10.0\Lab-3 OPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikon\Desktop\Dz_NK\ОПІ\Lab-3 OPI\obj\Debug\net10.0\Lab-3 OPI.AssemblyInfoInputs.cache
+C:\Users\nikon\Desktop\Dz_NK\ОПІ\Lab-3 OPI\obj\Debug\net10.0\Lab-3 OPI.AssemblyInfo.cs
+C:\Users\nikon\Desktop\Dz_NK\ОПІ\Lab-3 OPI\obj\Debug\net10.0\Lab-3 OPI.csproj.CoreCompileInputs.cache
+C:\Users\nikon\Desktop\Dz_NK\ОПІ\Lab-3 OPI\obj\Debug\net10.0\Lab-3 OPI.sourcelink.json
+C:\Users\nikon\Desktop\Dz_NK\ОПІ\Lab-3 OPI\obj\Debug\net10.0\Lab-3 OPI.csproj.Up2Date
+C:\Users\nikon\Desktop\Dz_NK\ОПІ\Lab-3 OPI\obj\Debug\net10.0\Lab-3 OPI.dll
+C:\Users\nikon\Desktop\Dz_NK\ОПІ\Lab-3 OPI\obj\Debug\net10.0\refint\Lab-3 OPI.dll
+C:\Users\nikon\Desktop\Dz_NK\ОПІ\Lab-3 OPI\obj\Debug\net10.0\Lab-3 OPI.pdb
+C:\Users\nikon\Desktop\Dz_NK\ОПІ\Lab-3 OPI\obj\Debug\net10.0\Lab-3 OPI.genruntimeconfig.cache
+C:\Users\nikon\Desktop\Dz_NK\ОПІ\Lab-3 OPI\obj\Debug\net10.0\ref\Lab-3 OPI.dll
+C:\Users\avior\Desktop\Docs\OPI_Lab\LAB-3_Unit Testing\Lab-3 OPI\bin\Debug\net10.0\testhost.exe
+C:\Users\avior\Desktop\Docs\OPI_Lab\LAB-3_Unit Testing\Lab-3 OPI\bin\Debug\net10.0\testhost.dll
+C:\Users\avior\Desktop\Docs\OPI_Lab\LAB-3_Unit Testing\Lab-3 OPI\bin\Debug\net10.0\NUnit3.TestAdapter.dll
+C:\Users\avior\Desktop\Docs\OPI_Lab\LAB-3_Unit Testing\Lab-3 OPI\bin\Debug\net10.0\NUnit3.TestAdapter.pdb
+C:\Users\avior\Desktop\Docs\OPI_Lab\LAB-3_Unit Testing\Lab-3 OPI\bin\Debug\net10.0\nunit.engine.dll
+C:\Users\avior\Desktop\Docs\OPI_Lab\LAB-3_Unit Testing\Lab-3 OPI\bin\Debug\net10.0\nunit.engine.api.dll
+C:\Users\avior\Desktop\Docs\OPI_Lab\LAB-3_Unit Testing\Lab-3 OPI\bin\Debug\net10.0\nunit.engine.core.dll
+C:\Users\avior\Desktop\Docs\OPI_Lab\LAB-3_Unit Testing\Lab-3 OPI\bin\Debug\net10.0\testcentric.engine.metadata.dll
+C:\Users\avior\Desktop\Docs\OPI_Lab\LAB-3_Unit Testing\Lab-3 OPI\bin\Debug\net10.0\Lab-3 OPI.staticwebassets.endpoints.json
+C:\Users\avior\Desktop\Docs\OPI_Lab\LAB-3_Unit Testing\Lab-3 OPI\bin\Debug\net10.0\Lab-3 OPI.exe
+C:\Users\avior\Desktop\Docs\OPI_Lab\LAB-3_Unit Testing\Lab-3 OPI\bin\Debug\net10.0\Lab-3 OPI.deps.json
+C:\Users\avior\Desktop\Docs\OPI_Lab\LAB-3_Unit Testing\Lab-3 OPI\bin\Debug\net10.0\Lab-3 OPI.runtimeconfig.json
+C:\Users\avior\Desktop\Docs\OPI_Lab\LAB-3_Unit Testing\Lab-3 OPI\bin\Debug\net10.0\Lab-3 OPI.dll
+C:\Users\avior\Desktop\Docs\OPI_Lab\LAB-3_Unit Testing\Lab-3 OPI\bin\Debug\net10.0\Lab-3 OPI.pdb
+C:\Users\avior\Desktop\Docs\OPI_Lab\LAB-3_Unit Testing\Lab-3 OPI\bin\Debug\net10.0\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+C:\Users\avior\Desktop\Docs\OPI_Lab\LAB-3_Unit Testing\Lab-3 OPI\bin\Debug\net10.0\Microsoft.TestPlatform.CoreUtilities.dll
+C:\Users\avior\Desktop\Docs\OPI_Lab\LAB-3_Unit Testing\Lab-3 OPI\bin\Debug\net10.0\Microsoft.TestPlatform.PlatformAbstractions.dll
+C:\Users\avior\Desktop\Docs\OPI_Lab\LAB-3_Unit Testing\Lab-3 OPI\bin\Debug\net10.0\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+C:\Users\avior\Desktop\Docs\OPI_Lab\LAB-3_Unit Testing\Lab-3 OPI\bin\Debug\net10.0\Microsoft.TestPlatform.CommunicationUtilities.dll
+C:\Users\avior\Desktop\Docs\OPI_Lab\LAB-3_Unit Testing\Lab-3 OPI\bin\Debug\net10.0\Microsoft.TestPlatform.CrossPlatEngine.dll
+C:\Users\avior\Desktop\Docs\OPI_Lab\LAB-3_Unit Testing\Lab-3 OPI\bin\Debug\net10.0\Microsoft.TestPlatform.Utilities.dll
+C:\Users\avior\Desktop\Docs\OPI_Lab\LAB-3_Unit Testing\Lab-3 OPI\bin\Debug\net10.0\Microsoft.VisualStudio.TestPlatform.Common.dll
+C:\Users\avior\Desktop\Docs\OPI_Lab\LAB-3_Unit Testing\Lab-3 OPI\bin\Debug\net10.0\Newtonsoft.Json.dll
+C:\Users\avior\Desktop\Docs\OPI_Lab\LAB-3_Unit Testing\Lab-3 OPI\bin\Debug\net10.0\nunit.framework.dll
+C:\Users\avior\Desktop\Docs\OPI_Lab\LAB-3_Unit Testing\Lab-3 OPI\bin\Debug\net10.0\nunit.framework.legacy.dll
+C:\Users\avior\Desktop\Docs\OPI_Lab\LAB-3_Unit Testing\Lab-3 OPI\bin\Debug\net10.0\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\avior\Desktop\Docs\OPI_Lab\LAB-3_Unit Testing\Lab-3 OPI\bin\Debug\net10.0\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\avior\Desktop\Docs\OPI_Lab\LAB-3_Unit Testing\Lab-3 OPI\bin\Debug\net10.0\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\avior\Desktop\Docs\OPI_Lab\LAB-3_Unit Testing\Lab-3 OPI\bin\Debug\net10.0\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\avior\Desktop\Docs\OPI_Lab\LAB-3_Unit Testing\Lab-3 OPI\bin\Debug\net10.0\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\avior\Desktop\Docs\OPI_Lab\LAB-3_Unit Testing\Lab-3 OPI\bin\Debug\net10.0\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\avior\Desktop\Docs\OPI_Lab\LAB-3_Unit Testing\Lab-3 OPI\bin\Debug\net10.0\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\avior\Desktop\Docs\OPI_Lab\LAB-3_Unit Testing\Lab-3 OPI\bin\Debug\net10.0\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\avior\Desktop\Docs\OPI_Lab\LAB-3_Unit Testing\Lab-3 OPI\bin\Debug\net10.0\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\avior\Desktop\Docs\OPI_Lab\LAB-3_Unit Testing\Lab-3 OPI\bin\Debug\net10.0\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\avior\Desktop\Docs\OPI_Lab\LAB-3_Unit Testing\Lab-3 OPI\bin\Debug\net10.0\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\avior\Desktop\Docs\OPI_Lab\LAB-3_Unit Testing\Lab-3 OPI\bin\Debug\net10.0\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\avior\Desktop\Docs\OPI_Lab\LAB-3_Unit Testing\Lab-3 OPI\bin\Debug\net10.0\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\avior\Desktop\Docs\OPI_Lab\LAB-3_Unit Testing\Lab-3 OPI\bin\Debug\net10.0\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\avior\Desktop\Docs\OPI_Lab\LAB-3_Unit Testing\Lab-3 OPI\bin\Debug\net10.0\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\avior\Desktop\Docs\OPI_Lab\LAB-3_Unit Testing\Lab-3 OPI\bin\Debug\net10.0\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\avior\Desktop\Docs\OPI_Lab\LAB-3_Unit Testing\Lab-3 OPI\bin\Debug\net10.0\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\avior\Desktop\Docs\OPI_Lab\LAB-3_Unit Testing\Lab-3 OPI\bin\Debug\net10.0\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\avior\Desktop\Docs\OPI_Lab\LAB-3_Unit Testing\Lab-3 OPI\bin\Debug\net10.0\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\avior\Desktop\Docs\OPI_Lab\LAB-3_Unit Testing\Lab-3 OPI\bin\Debug\net10.0\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\avior\Desktop\Docs\OPI_Lab\LAB-3_Unit Testing\Lab-3 OPI\bin\Debug\net10.0\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\avior\Desktop\Docs\OPI_Lab\LAB-3_Unit Testing\Lab-3 OPI\bin\Debug\net10.0\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\avior\Desktop\Docs\OPI_Lab\LAB-3_Unit Testing\Lab-3 OPI\bin\Debug\net10.0\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\avior\Desktop\Docs\OPI_Lab\LAB-3_Unit Testing\Lab-3 OPI\bin\Debug\net10.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\avior\Desktop\Docs\OPI_Lab\LAB-3_Unit Testing\Lab-3 OPI\bin\Debug\net10.0\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\avior\Desktop\Docs\OPI_Lab\LAB-3_Unit Testing\Lab-3 OPI\bin\Debug\net10.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\avior\Desktop\Docs\OPI_Lab\LAB-3_Unit Testing\Lab-3 OPI\bin\Debug\net10.0\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\avior\Desktop\Docs\OPI_Lab\LAB-3_Unit Testing\Lab-3 OPI\bin\Debug\net10.0\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\avior\Desktop\Docs\OPI_Lab\LAB-3_Unit Testing\Lab-3 OPI\bin\Debug\net10.0\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\avior\Desktop\Docs\OPI_Lab\LAB-3_Unit Testing\Lab-3 OPI\bin\Debug\net10.0\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\avior\Desktop\Docs\OPI_Lab\LAB-3_Unit Testing\Lab-3 OPI\bin\Debug\net10.0\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\avior\Desktop\Docs\OPI_Lab\LAB-3_Unit Testing\Lab-3 OPI\bin\Debug\net10.0\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\avior\Desktop\Docs\OPI_Lab\LAB-3_Unit Testing\Lab-3 OPI\bin\Debug\net10.0\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\avior\Desktop\Docs\OPI_Lab\LAB-3_Unit Testing\Lab-3 OPI\bin\Debug\net10.0\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\avior\Desktop\Docs\OPI_Lab\LAB-3_Unit Testing\Lab-3 OPI\bin\Debug\net10.0\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\avior\Desktop\Docs\OPI_Lab\LAB-3_Unit Testing\Lab-3 OPI\bin\Debug\net10.0\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\avior\Desktop\Docs\OPI_Lab\LAB-3_Unit Testing\Lab-3 OPI\bin\Debug\net10.0\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\avior\Desktop\Docs\OPI_Lab\LAB-3_Unit Testing\Lab-3 OPI\bin\Debug\net10.0\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\avior\Desktop\Docs\OPI_Lab\LAB-3_Unit Testing\Lab-3 OPI\bin\Debug\net10.0\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\avior\Desktop\Docs\OPI_Lab\LAB-3_Unit Testing\Lab-3 OPI\bin\Debug\net10.0\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\avior\Desktop\Docs\OPI_Lab\LAB-3_Unit Testing\Lab-3 OPI\bin\Debug\net10.0\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\avior\Desktop\Docs\OPI_Lab\LAB-3_Unit Testing\Lab-3 OPI\bin\Debug\net10.0\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\avior\Desktop\Docs\OPI_Lab\LAB-3_Unit Testing\Lab-3 OPI\bin\Debug\net10.0\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\avior\Desktop\Docs\OPI_Lab\LAB-3_Unit Testing\Lab-3 OPI\bin\Debug\net10.0\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\avior\Desktop\Docs\OPI_Lab\LAB-3_Unit Testing\Lab-3 OPI\bin\Debug\net10.0\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\avior\Desktop\Docs\OPI_Lab\LAB-3_Unit Testing\Lab-3 OPI\bin\Debug\net10.0\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\avior\Desktop\Docs\OPI_Lab\LAB-3_Unit Testing\Lab-3 OPI\bin\Debug\net10.0\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\avior\Desktop\Docs\OPI_Lab\LAB-3_Unit Testing\Lab-3 OPI\bin\Debug\net10.0\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\avior\Desktop\Docs\OPI_Lab\LAB-3_Unit Testing\Lab-3 OPI\bin\Debug\net10.0\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\avior\Desktop\Docs\OPI_Lab\LAB-3_Unit Testing\Lab-3 OPI\bin\Debug\net10.0\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\avior\Desktop\Docs\OPI_Lab\LAB-3_Unit Testing\Lab-3 OPI\bin\Debug\net10.0\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\avior\Desktop\Docs\OPI_Lab\LAB-3_Unit Testing\Lab-3 OPI\bin\Debug\net10.0\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\avior\Desktop\Docs\OPI_Lab\LAB-3_Unit Testing\Lab-3 OPI\bin\Debug\net10.0\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\avior\Desktop\Docs\OPI_Lab\LAB-3_Unit Testing\Lab-3 OPI\bin\Debug\net10.0\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\avior\Desktop\Docs\OPI_Lab\LAB-3_Unit Testing\Lab-3 OPI\bin\Debug\net10.0\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\avior\Desktop\Docs\OPI_Lab\LAB-3_Unit Testing\Lab-3 OPI\bin\Debug\net10.0\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\avior\Desktop\Docs\OPI_Lab\LAB-3_Unit Testing\Lab-3 OPI\bin\Debug\net10.0\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\avior\Desktop\Docs\OPI_Lab\LAB-3_Unit Testing\Lab-3 OPI\bin\Debug\net10.0\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\avior\Desktop\Docs\OPI_Lab\LAB-3_Unit Testing\Lab-3 OPI\bin\Debug\net10.0\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\avior\Desktop\Docs\OPI_Lab\LAB-3_Unit Testing\Lab-3 OPI\bin\Debug\net10.0\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\avior\Desktop\Docs\OPI_Lab\LAB-3_Unit Testing\Lab-3 OPI\bin\Debug\net10.0\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\avior\Desktop\Docs\OPI_Lab\LAB-3_Unit Testing\Lab-3 OPI\bin\Debug\net10.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\avior\Desktop\Docs\OPI_Lab\LAB-3_Unit Testing\Lab-3 OPI\bin\Debug\net10.0\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\avior\Desktop\Docs\OPI_Lab\LAB-3_Unit Testing\Lab-3 OPI\bin\Debug\net10.0\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\avior\Desktop\Docs\OPI_Lab\LAB-3_Unit Testing\Lab-3 OPI\bin\Debug\net10.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\avior\Desktop\Docs\OPI_Lab\LAB-3_Unit Testing\Lab-3 OPI\obj\Debug\net10.0\Lab-3 OPI.csproj.AssemblyReference.cache
+C:\Users\avior\Desktop\Docs\OPI_Lab\LAB-3_Unit Testing\Lab-3 OPI\obj\Debug\net10.0\rpswa.dswa.cache.json
+C:\Users\avior\Desktop\Docs\OPI_Lab\LAB-3_Unit Testing\Lab-3 OPI\obj\Debug\net10.0\Lab-3 OPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\avior\Desktop\Docs\OPI_Lab\LAB-3_Unit Testing\Lab-3 OPI\obj\Debug\net10.0\Lab-3 OPI.AssemblyInfoInputs.cache
+C:\Users\avior\Desktop\Docs\OPI_Lab\LAB-3_Unit Testing\Lab-3 OPI\obj\Debug\net10.0\Lab-3 OPI.AssemblyInfo.cs
+C:\Users\avior\Desktop\Docs\OPI_Lab\LAB-3_Unit Testing\Lab-3 OPI\obj\Debug\net10.0\Lab-3 OPI.csproj.CoreCompileInputs.cache
+C:\Users\avior\Desktop\Docs\OPI_Lab\LAB-3_Unit Testing\Lab-3 OPI\obj\Debug\net10.0\Lab-3 OPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\avior\Desktop\Docs\OPI_Lab\LAB-3_Unit Testing\Lab-3 OPI\obj\Debug\net10.0\Lab-3 OPI.sourcelink.json
+C:\Users\avior\Desktop\Docs\OPI_Lab\LAB-3_Unit Testing\Lab-3 OPI\obj\Debug\net10.0\rjimswa.dswa.cache.json
+C:\Users\avior\Desktop\Docs\OPI_Lab\LAB-3_Unit Testing\Lab-3 OPI\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
+C:\Users\avior\Desktop\Docs\OPI_Lab\LAB-3_Unit Testing\Lab-3 OPI\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
+C:\Users\avior\Desktop\Docs\OPI_Lab\LAB-3_Unit Testing\Lab-3 OPI\obj\Debug\net10.0\scopedcss\bundle\Lab-3 OPI.styles.css
+C:\Users\avior\Desktop\Docs\OPI_Lab\LAB-3_Unit Testing\Lab-3 OPI\obj\Debug\net10.0\staticwebassets.build.json
+C:\Users\avior\Desktop\Docs\OPI_Lab\LAB-3_Unit Testing\Lab-3 OPI\obj\Debug\net10.0\staticwebassets.build.json.cache
+C:\Users\avior\Desktop\Docs\OPI_Lab\LAB-3_Unit Testing\Lab-3 OPI\obj\Debug\net10.0\staticwebassets.development.json
+C:\Users\avior\Desktop\Docs\OPI_Lab\LAB-3_Unit Testing\Lab-3 OPI\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+C:\Users\avior\Desktop\Docs\OPI_Lab\LAB-3_Unit Testing\Lab-3 OPI\obj\Debug\net10.0\swae.build.ex.cache
+C:\Users\avior\Desktop\Docs\OPI_Lab\LAB-3_Unit Testing\Lab-3 OPI\obj\Debug\net10.0\Lab-3 OPI.csproj.Up2Date
+C:\Users\avior\Desktop\Docs\OPI_Lab\LAB-3_Unit Testing\Lab-3 OPI\obj\Debug\net10.0\Lab-3 OPI.dll
+C:\Users\avior\Desktop\Docs\OPI_Lab\LAB-3_Unit Testing\Lab-3 OPI\obj\Debug\net10.0\refint\Lab-3 OPI.dll
+C:\Users\avior\Desktop\Docs\OPI_Lab\LAB-3_Unit Testing\Lab-3 OPI\obj\Debug\net10.0\Lab-3 OPI.pdb
+C:\Users\avior\Desktop\Docs\OPI_Lab\LAB-3_Unit Testing\Lab-3 OPI\obj\Debug\net10.0\Lab-3 OPI.genruntimeconfig.cache
+C:\Users\avior\Desktop\Docs\OPI_Lab\LAB-3_Unit Testing\Lab-3 OPI\obj\Debug\net10.0\ref\Lab-3 OPI.dll
